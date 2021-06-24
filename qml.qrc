@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gameplay.qml</file>
+        <file>Toolbar.qml</file>
+        <file>Car.qml</file>
+        <file>Obstacle.qml</file>
+        <file>Road.qml</file>
+        <file>Tree.qml</file>
+        <file>treeSpawner.qml</file>
+        <file>obstacleSpawner.qml</file>
+        <file>CarImages/1.png</file>
+        <file>CarImages/2.png</file>
+        <file>CarImages/3.png</file>
+        <file>CarImages/4.png</file>
+        <file>CarImages/5.png</file>
+        <file>CarImages/6.png</file>
+        <file>Audio/backgroundMusic.mp3</file>
+        <file>Audio/carEngineLoop.wav</file>
+        <file>Audio/carCrash.mp3</file>
+        <file>ObstacleImages/1.png</file>
+        <file>ObstacleImages/2.png</file>
+        <file>ObstacleImages/3.png</file>
+        <file>ObstacleImages/4.png</file>
+        <file>TreeImages/1.png</file>
+        <file>TreeImages/2.png</file>
+        <file>TreeImages/3.png</file>
+    </qresource>
+</RCC>
